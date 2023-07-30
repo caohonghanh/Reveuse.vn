@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="../css/all.min.css">
+<link rel="stylesheet" href="../css/bootstrap.css">
+<link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="../css/owl.carousel.css">
+<link rel="stylesheet" href="../css/owl.theme.default.css">
+<script src="../js/bootstrap.bundle.min.js"></script>
+<link rel="icon" href="../images/icon.png" type="image/x-icon"> 
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+  <nav class="navbar navbar-expand-lg bg-light">
+	<div class="container">
+     <a class="navbar-brand" href="#"><img src="../images/logo01.png" alt=""></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+          <li class="nav-item"> <a class="nav-link active" aria-current="page" href="../index.html">Home</a> </li>
+          <li class="nav-item"> <a class="nav-link" href="../Dress.html">Dress</a> </li>
+		 <li class="nav-item"> <a class="nav-link" href="../Shirt.html">Shirt</a> </li>
+			 <li class="nav-item"> <a class="nav-link" href="../Pants.html">Pants</a> </li>
+          <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Pages </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#">About Us</a></li>
+              <li><a class="dropdown-item" href="#">Products</a></li>
+              <li><a class="dropdown-item" href="#">Best Trends</a></li>
+			  <li><a class="dropdown-item" href="#">Contact</a></li>
+            </ul>
+          </li>
+			 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Feature</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#">Feature 1</a></li>
+              <li><a class="dropdown-item" href="#">Feature 2</a></li>
+              <li><a class="dropdown-item" href="#">Feature 3</a></li>
+			  <li><a class="dropdown-item" href="#">Feature 4</a></li>
+            </ul>
+          </li>
+          <li class="nav-item"> <a class="nav-link" href="../Explorer.html">Explore</a> </li>
+        </ul>
+		 
+      </div>
+    </div>
+	  </nav>
+  <!-- TemplateBeginEditable name="fulwidth" -->
+  <main></main>
+  <!-- TemplateEndEditable -->
+  <footer class="bg-dark text-light">
+	<div class="container">
+			<div class="row pt-4"> 
+				<div class="col-lg-3">
+					<a href="../index.html"><img src="../images/logo02.png" alt=""></a>
+					<p class="pt-3">64 Trần Quang Diệu, phường 14, quận 3, Hồ Chí Minh</p>
+					<p>Reveuse@company.com</p>
+					<p>034-9054-567</p>
+				</div>
+				<div class="col-lg-3">
+					<h4>Best Sellers</h4>
+					<ul class="navbar-nav">
+						<li class="nav-item"><a href="../Dress.html" class="nav-link">Dress Shopping</a></li>
+						<li class="nav-item"><a href="../Shirt.html" class="nav-link">Shirt Shopping</a></li>
+						<li class="nav-item"><a href="../Pants.html" class="nav-link">Pants Shopping</a></li>
+					</ul>
+				</div>
+				<div class="col-lg-3">
+					<h4>Useful Links</h4>
+					<ul class="navbar-nav">
+						<li class="nav-item"><a href="#" class="nav-link">Trang chủ</a></li>
+						<li class="nav-item"><a href="#" class="nav-link">Hổ trợ</a></li>
+						<li class="nav-item"><a href="#" class="nav-link">Thông tin liên hệ</a></li>
+					</ul>
+				</div>
+				<div class="col-lg-3">
+					<h4>Chính Sách</h4>
+					<ul class="navbar-nav">
+						<li class="nav-item"><a href="#" class="nav-link">Chính sách bảo mật</a></li>
+						<li class="nav-item"><a href="#" class="nav-link">Chính sách Thẻ Thành viên</a></li>
+						<li class="nav-item"><a href="#" class="nav-link">Chính sách Bảo hành & Đổi trả</a></li>
+						<li class="nav-item"><a href="#" class="nav-link">Chính sách giao hàng hỏa tốc</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<script src="../js/jquery-3.6.0.min.js"></script>
+    <script src="../js/owl.carousel.js"></script>
+	<script src="../js/control.js"></script>
+</body>
+</html>
